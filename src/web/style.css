@@ -4,13 +4,18 @@
 }
 
 .vial {
-  border: solid 1px black;
+  border: solid 4px gray;
   padding: 2px;
+  margin: 10px;
+}
+
+.vial:hover {
+  border: solid 4px black;
 }
 
 .cell {
-  width: 10px;
-  height: 10px;
+  width: 60px;
+  height: 60px;
 }
 
 .color-1 {
